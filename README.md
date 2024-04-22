@@ -1,1 +1,1 @@
-# This repository is for online course on Boot.Dev
+<h1 style="text-align: center;">This repository is for online course on <a href="https://www.boot.dev">Boot.Dev</a></h1>
