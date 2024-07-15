@@ -28,16 +28,6 @@ function getURLsFromHTML(htmlBody, baseURL) {
   return finalArr;
 }
 
-// async function crawlPage(url) {
-//   try {
-//     const response = await fetch(url);
-//     const data = await response.text();
-//     return data;
-//   } catch (error) {
-//     console.log(error.message);
-//   }
-// }
-
 async function getPageContent(url) {
   try {
     const response = await fetch(url);
